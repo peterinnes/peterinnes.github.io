@@ -21,7 +21,7 @@
 title: Peter Innes
 email: peter.innes@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student in the Kane Lab at CU Boulder EBIO. Content TK.
+  PhD student in the Kane Lab, CU Boulder EBIO. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: peter_innes1
