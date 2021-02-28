@@ -28,7 +28,7 @@ twitter_username: peter_innes1
 github_username:  peterinnes
 
 # Build settings
-theme: minimal 
+remote_theme: diezcami/arctic-fox-theme 
 plugins:
   - jekyll-feed
 
