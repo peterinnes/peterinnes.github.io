@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Peter Innes
 description:
   PhD Student | Kane Lab<br />CU Boulder EBIO
+pages_list:
+  Home: '/index'
